@@ -217,8 +217,8 @@ The project follows the **VU Process Model**, combining structured development p
 
 | Role | Name |
 | --- | --- |
-| Student developer | Muhammad Ali Khaliq |
 | Student developer | Fahad Ullah |
+| Student developer | Muhammad Ali Khaliq |
 | Project supervisor | Warda Fiaz |
 
 **Institution:** Virtual University of Pakistan
